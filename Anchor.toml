@@ -11,7 +11,8 @@ anchor_counter = "861GJUxfTPw52zodfsUyfMDHVmv7iyZRqUitvnjVDz6Y"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+#cluster = "Localnet"
+cluster = "devnet"
 wallet = "/Users/yash/.config/solana/id.json"
 
 [scripts]
